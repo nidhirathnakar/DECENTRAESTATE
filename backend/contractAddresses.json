@@ -1,0 +1,8 @@
+{
+  "propertyRegistry": "0x9a3C0c665Aa3aed31f94C16c9E1AB3AD7452022E",
+  "transactionManager": "0xf6A3e6A2950cf9a8722e179055D4107e08dD46A2",
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployedAt": "2026-04-29T09:08:13.233Z",
+  "deployer": "0x9f4AEA76BbE43818D3Ba5898b6fCED505C2d4970"
+}

@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\NIDHI\\Desktop\\projects\\blockchain project\\contracts\\PropertyRegistry.sol": {
+      "lastModificationDate": 1774972831892,
+      "contentHash": "1ab65b8fbeaf9a4e0a684e90df39d0ff",
+      "sourceName": "contracts/PropertyRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PropertyRegistry"
+      ]
+    },
+    "C:\\Users\\NIDHI\\Desktop\\projects\\blockchain project\\contracts\\TransactionManager.sol": {
+      "lastModificationDate": 1774972872439,
+      "contentHash": "3ab4d02d874059fbf1d1aab450fd844a",
+      "sourceName": "contracts/TransactionManager.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TransactionManager"
+      ]
+    }
+  }
+}
